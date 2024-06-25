@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Luiz Gustavo
 
 - 🔭 I’m currently working for KXC as Cloud Solutions Architect
-- 🌱 I’m currently learning **DBT and REDSHIFT**
+- 🌱 I’m currently learning **DBT,REDSHIFT and Spark**
 - 📫 How to reach me: **luizpaiva043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
