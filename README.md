@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Luiz Gustavo
 
-- 🔭 I’m currently working for EzOps Cloud as Devops Engineer
-- 🌱 I’m currently learning **N8N and SecOps**
+- 🔭 I’m currently working as Devops Engineer
 - 📫 How to reach me: **luizpaiva043@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
